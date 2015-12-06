@@ -43,8 +43,8 @@ description: 'Vetements - Editorial Review Fall/Winter 2015 http://ow.ly/Ul4WA'
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/twoeyescanada/status/662685239345573888'
-datePublished: '2015-12-06T21:25:26.377Z'
-dateModified: '2015-12-06T21:22:55.851Z'
+datePublished: '2015-12-06T21:25:43.044Z'
+dateModified: '2015-12-06T21:25:26.377Z'
 title: ''
 sourcePath: _posts/2015-12-06-vetements-editorial-review-fallwinter-2015-httpowlyu.md
 published: true
