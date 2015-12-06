@@ -1,0 +1,28 @@
+name: twoeyes
+favicon: null
+layout_spectrum: 0.9371145688928664
+typography_spectrum: 0.8579473500140011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4112164818216115
+  lightness: 0.2632188620045781
+  saturation: 0.8261140959803015
+  rhythmicContrast: 0.5967581865843385
+purpose: []
