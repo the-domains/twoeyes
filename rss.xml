@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ii]]></title>
         <description><![CDATA[ii]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twoeyes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 03:13:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Dec 2015 03:27:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twoeyes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Malina Corpadean - Photographer]]></title>
+            <description><![CDATA[<article><h1>Malina Corpadean - Photographer</h1><p>OFFICIAL WEBSITE. Canadian Photographer, Video, Directing. Fashion · Beauty · Celebrities · Advertising · Location · Studio · Diary · Biography · Contact</p><img src="http://www.malinacorpadean.com/assets/images/133-12.jpg"></article>]]></description>
+            <link>http://www.malinacorpadean.com/portfolio/statement-pieces</link>
+            <guid isPermaLink="false">3cae6bdb-e576-45b1-9005-fbd286497386</guid>
+            <pubDate>Sun, 06 Dec 2015 03:27:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/twoeyes/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">253c2767-040e-480d-ae83-304e2ecc2f83</guid>
             <pubDate>Sun, 06 Dec 2015 03:13:27 GMT</pubDate>
         </item>
