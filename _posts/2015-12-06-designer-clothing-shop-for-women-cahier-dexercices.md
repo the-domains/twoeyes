@@ -11,8 +11,8 @@ description: "Cahier d'Exercices is positioning itself as the ultimate women's f
 app_links: []
 isBasedOnUrl: 'http://www.cahierdexercices.com/'
 title: "Designer Clothing Shop for Women - Cahier d'Exercices"
-datePublished: '2015-12-06T21:25:26.285Z'
-dateModified: '2015-12-06T21:24:53.929Z'
+datePublished: '2015-12-06T21:25:43.097Z'
+dateModified: '2015-12-06T21:25:26.285Z'
 sourcePath: _posts/2015-12-06-designer-clothing-shop-for-women-cahier-dexercices.md
 published: true
 inFeed: true
