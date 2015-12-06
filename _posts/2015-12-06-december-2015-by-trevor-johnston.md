@@ -24,8 +24,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/twoeyescanada/sets/december-2015'
 title: DECEMBER 2015 by Trevor Johnston
-datePublished: '2015-12-06T21:25:26.298Z'
-dateModified: '2015-12-06T21:22:55.728Z'
+datePublished: '2015-12-06T21:25:43.259Z'
+dateModified: '2015-12-06T21:25:26.298Z'
 sourcePath: _posts/2015-12-06-december-2015-by-trevor-johnston.md
 published: true
 inFeed: true
